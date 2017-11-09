@@ -1,0 +1,8 @@
+/*
+Theme Name: Twenty Fifteen
+Description: Used to style the TinyMCE editor.
+*/
+
+@import url('vendor/bootstrap/css/bootstrap.min.css');
+@import url('vendor/font-awesome/css/font-awesome.min.css');
+@import url('css/freelancer.min.css');
